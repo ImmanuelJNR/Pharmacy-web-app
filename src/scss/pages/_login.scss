@@ -1,0 +1,83 @@
+.header-text-container{
+    // color: #183A34;
+    color: #245B51;
+}
+
+.logo-container{
+    width: 90%;
+    // border: 1px solid red;
+    margin-top: 20px;
+}
+
+.form-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // justify-content: center;
+    // background-image: linear-gradient(to right, #E2F3F0, #FBF7F1);
+    // background-color: #F4FCFA;
+    // background-color: #DBEDEB;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px 15px;
+    width: 90%;
+    max-width: 400px;
+    margin-top: 30px;
+    // border: 1px solid red;
+    border-radius: 10px;
+}
+
+
+.forgot-password-container{
+    display: flex;
+    justify-content: flex-end;
+    a{
+        text-decoration: none;
+        color: #404B4F;
+        font-weight: 700;
+    }
+}
+
+.redirect-text{
+    color: #183A34;
+
+    a{
+        text-decoration: none;
+        color: #245B51; 
+        font-weight: 700;
+    }
+}
+
+.errorMsg{
+    color: red; 
+}
+
+.divider{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    margin: 25px 0;
+
+    .customHR{
+        height: 1px;
+        background-color: #d9dbe0;
+        width: 40%;
+    }
+
+    span{
+        color: #245B51;
+    }
+}
+
+.success-msg{
+    color: green;
+    text-align: center;
+    margin-top: 5px;
+}

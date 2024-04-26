@@ -1,0 +1,93 @@
+[
+    {
+      "title": "Men's Health",
+      "items": [
+        {
+          "name": "Erectile Dysfunction",
+          "subItems": [
+            { "name": "Viagra" },
+            { "name": "Viagra Connect" },
+            { "name": "Sildenafil" },
+            { "name": "Tadalafil" },
+            { "name": "Vardenafil" },
+            { "name": "Levitra" },
+            { "name": "Cialis" },
+            { "name": "Cialis Once Daily" },
+            { "name": "Spedra" }
+          ]
+        },
+        {
+          "name": "Premature Ejaculation",
+          "subItems": [
+            { "name": "Subitem 1" },
+            { "name": "Subitem 2" },
+            { "name": "Subitem 3" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Women's Health",
+      "items": [
+        {
+          "name": "Female Sexual Dysfunction",
+          "subItems": [
+            { "name": "Subitem 1" },
+            { "name": "Subitem 2" },
+            { "name": "Subitem 3" }
+          ]
+        },
+        {
+          "name": "Polycystic Ovary Syndrome (PCOS)",
+          "subItems": [
+            { "name": "Subitem 1" },
+            { "name": "Subitem 2" },
+            { "name": "Subitem 3" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "General Health",
+      "items": [
+        {
+          "name": "Female Sexual Dysfunction",
+          "subItems": [
+            { "name": "Subitem 1" },
+            { "name": "Subitem 2" },
+            { "name": "Subitem 3" }
+          ]
+        },
+        {
+          "name": "Polycystic Ovary Syndrome (PCOS)",
+          "subItems": [
+            { "name": "Subitem 1" },
+            { "name": "Subitem 2" },
+            { "name": "Subitem 3" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sexual Health",
+      "items": [
+        {
+          "name": "Female Sexual Dysfunction",
+          "subItems": [
+            { "name": "Subitem 1" },
+            { "name": "Subitem 2" },
+            { "name": "Subitem 3" }
+          ]
+        },
+        {
+          "name": "Polycystic Ovary Syndrome (PCOS)",
+          "subItems": [
+            { "name": "Subitem 1" },
+            { "name": "Subitem 2" },
+            { "name": "Subitem 3" }
+          ]
+        }
+      ]
+    }
+  ]
+  

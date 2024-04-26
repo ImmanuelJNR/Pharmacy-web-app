@@ -1,0 +1,35 @@
+@import '../abstract/breakpoint';
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #DBEDEB;
+    position: relative;
+    // font-family:;
+    
+
+    .sub-container{
+        display: flex; 
+        width: 85%;
+        align-items: center;
+        // border: 1px solid blue;
+        margin: 10px 0;
+
+        p{
+            color: #94A3B8;
+            
+        }
+
+        .wrapper{
+            // position: relative;
+        }
+
+        // .wrapper:hover > :last-child{
+        //     display: flex;
+        // }
+    }
+    @media screen and (max-width: map-get($breakpoints, small)) {
+        display: none;
+    }
+}
